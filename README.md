@@ -28,10 +28,22 @@
 
 ### Design Compiler
 
-- Documentation:
-- Course: youtube, todo
+#### Official Workshops
 
-University resources
+The official workshop basically consists of the following four parts:
+
+- Lab Guide
+  - *Design Compiler 1 Workshop Lab Guide* before 2012, *Design Compiler: RTL Synthesis Workshop Lab Guide* since 2017
+  - codename: 10-I-011-SLG-0xx (-024 for 2017.09, -018 for 2012.06)
+- Student Guide
+  - *Design Compiler 1 Workshop Student Guide* before 2012, *Design Compiler: RTL Synthesis Workshop Student Guide* since 2017
+  - codename: 10-I-011-SSG-0xx (-024 for 2017.09, -018 for 2012.06)
+- Lab Files
+- Student Guide Slide
+
+The [2017.09](https://bbs.eetop.cn/thread-922364-1-1.html) version is the most up-to-date workshop available on the Internet.
+
+#### University resources
 
 - https://www.ece.ucdavis.edu/~bbaas/281/docs/dc/
 - https://s2.smu.edu/~manikas/CAD_Tools/SDC/lab2/lab2_synopsys_dc.pdf
