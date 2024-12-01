@@ -26,6 +26,10 @@
 
 - [anlit75/SV-TBLab](https://github.com/anlit75/SV-TBLab/tree/main): SystemVerilog Testbench Workshop Lab
 
+### scripts
+
+https://github.com/AmiArnab/Synopsys
+
 ### Design Compiler
 
 #### Official Workshops
@@ -33,10 +37,10 @@
 The official workshop basically consists of the following four parts:
 
 - Lab Guide
-  - *Design Compiler 1 Workshop Lab Guide* before 2012, *Design Compiler: RTL Synthesis Workshop Lab Guide* since 2017
+  - *Design Compiler: RTL Synthesis Workshop Lab Guide* since 2017 (*Design Compiler 1 Workshop Lab Guide* before 2012)
   - codename: 10-I-011-SLG-0xx (-024 for 2017.09, -018 for 2012.06)
 - Student Guide
-  - *Design Compiler 1 Workshop Student Guide* before 2012, *Design Compiler: RTL Synthesis Workshop Student Guide* since 2017
+  - *Design Compiler: RTL Synthesis Workshop Student Guide* since 2017 (*Design Compiler 1 Workshop Student Guide* before 2012)
   - codename: 10-I-011-SSG-0xx (-024 for 2017.09, -018 for 2012.06)
 - Lab Files
 - Student Guide Slide
@@ -53,10 +57,10 @@ The [2017.09](https://bbs.eetop.cn/thread-922364-1-1.html) version is the most u
   - [d6_syndc.pdf](https://ofcastaneda.github.io/tutorials/d6_syndc.pdf)
 
 
-### IC Compiler
+### IC Compiler / IC Compiler 2
 
 - Workshop: [kunalg123/icc2_workshop_collaterals](https://github.com/kunalg123/icc2_workshop_collaterals): A list of collaterals needed for ICC2 workshop. It has a modified version of raven_soc which was taped-out by Efabless Corp. Pvt. Ltd. VSD has not checked functionality for these collaterals, so please do not expect a functionality bug fix. These are used purely for PNR workshops and trainings
-
+- [Devipriya1921/VSDBabySoC_ICC2](https://github.com/Devipriya1921/VSDBabySoC_ICC2)
 
 ## Cadence
 
